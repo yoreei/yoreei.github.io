@@ -1,0 +1,6 @@
+title: YORDAN.IO
+description: A blog about computer science and linguistics
+#show_downloads: true
+#google_analytics:
+#theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
