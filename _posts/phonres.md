@@ -1,3 +1,12 @@
+---
+title: "Post: Standard"
+excerpt_separator: "<!--more-->"
+categories:
+  - Languages
+tags:
+  - cheatsheet
+---
+
 # Some phonetic resources I like to browse in my spare time
 
 

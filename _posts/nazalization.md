@@ -1,4 +1,13 @@
-Bulgarian vs English vs German vowel nasalization
+---
+title: "Bulgarian vs English vs German vowel nasalization"
+excerpt_separator: "<!--more-->"
+categories:
+  - Languages
+tags:
+  - phonetics
+---
+
+
 
 Bulgarian seem to nasalize vowels after a nasal consonant:"не", "ме". American English and Standard German seem to nasalize vowels in front of the nasal consonant:
 

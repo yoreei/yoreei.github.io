@@ -1,4 +1,11 @@
-# East Bulgarian soft - hard "a" difference
+---
+title: "East Bulgarian soft - hard \"a\" difference"
+excerpt_separator: "<!--more-->"
+categories:
+  - Languages
+tags:
+  - phonetics
+---
 
 East Bulgarian apparently makes a distinction between soft "a" and a hard "a" sounds, following the same rules as Russian. Do note, that the vowel qualities are still very different from Russian. 
 

@@ -1,4 +1,11 @@
-# Sssibilants
+---
+title: "Sssibilants"
+excerpt_separator: "<!--more-->"
+categories:
+  - Languages
+tags:
+  - phonetics
+---
 
 The "s"s and the "z"s can be as diverse and interesting as the vowels, but I haven't often had the chance to discover the minute differences between the different variants. The languages around me aren't as rich in sibilants as they are in vowels and I haven't had the practical need to differentiate between the allophones. Here is a theory of the "s"s I've heard and believe I can differentiate:
 
