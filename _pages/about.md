@@ -11,7 +11,9 @@ The boring, slow-paced English courses my parents made me go to could not break 
 
 Here comes a ![smiley](./smoothie.jpg)
 
-Here comes a ![smiley](./_posts/smoothie.jpg)
+Here comes a ![smiley](./_pages/smoothie.jpg)
 
 Here comes a ![smiley](http://yordan.io/smoothie.jpg)
+
+Here comes a ![smiley](http://yordan.io/_pages/smoothie.jpg)
 
