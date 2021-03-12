@@ -16,7 +16,7 @@ p = mp.Process(target=fn, args=args, kwargs=kwargs)
 p.start()                                              
 ~~~
 
-In short, the function **fn** will run in parallel, in a new process. You may pass positional parameters **args** or (named parameters)[3] **kwargs**, but these have to be (picklable)[4]. To generalize, the **Process** API allows us to pass functions to the new process, but what if we want to pass an AST Parsetree instead? Let's say we have the following scenario:
+In short, the function **fn** will run in parallel, in a new process. You may pass positional parameters **args** or [named parameters][3] **kwargs**, but these have to be [picklable][4]. To generalize, the **Process** API allows us to pass functions to the new process, but what if we want to pass and execute an AST Parsetree instead? Let's say we have the following scenario:
 
 ~~~python
 codestring="import ..."

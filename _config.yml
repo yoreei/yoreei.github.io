@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: YORDAN.IO
-email:
+email: me@yordan.io
 description: A blog about computer science and linguistics
 twitter_username: yoreei
 linkedin_username: yordangrigorov
@@ -24,6 +24,9 @@ search: true
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -47,6 +50,8 @@ include:
 #   - vendor/ruby/
 
 # Plugins (previously gems:)
+
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
