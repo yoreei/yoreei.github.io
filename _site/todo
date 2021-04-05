@@ -1,0 +1,14 @@
+1. Link a post to snarky.ca
+2. Thoughts on using Python to learn Computer Science
+3. Project: KI
+4. Project: Linear Predictive Coding
+5. Project: Friendly Finance
+6. Using Jupyter instead of Powerpoint
+7. Graph visualization suing networkx and dotformat (Jupyter)
+8. Scraping Kaggle
+9. Desugarizing Python
+10. Robust Benchmarking with Python
+
+11. Jekyll:
+(nokogiri)
+gem install nokogiri -- --use-system-libraries --with-xml2-include=/usr/include/libxml2 --with-xml2-lib=/usr/lib --with-xslt-dir=/usr/include/libxslt --with-iconv-include=/usr/include --with-iconv-lib=/usr/lib
