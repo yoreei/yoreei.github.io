@@ -80,15 +80,19 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: Welcome to my webpage
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    #- name: twitter
+    #  url: "https://twitter.com/"
+    #- name: stackoverflow
+    #  url: "https://stackoverflow.com"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/yordangrigorov/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/yoreei"
+    - name: steam
+      url: "https://steamcommunity.com/id/yoreei/"
 
   analytics:
     google:
