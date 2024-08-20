@@ -17,7 +17,7 @@ I am currently fixing a bug with the KDTree implementation in my raytracer, whic
 
 You can see on the video, some triangles on the leg of the dragon are missing, when looked from this angle. This bug was easily missed during the initial development of the KDTree, because most angles don't suffer from this. Now, I can leave the ray tracer running while I sleep and come back the next morning to inspect if I've introduced any regressions the previous day.
 
-Next step is to actually fix the bug. I'll post a benchmark of the KDTree once done.
+Next step is to actually fix the bug :) I'll post a benchmark of the KDTree once done.
 
 <video width="640" height="360" controls>
   <source src="compare.mp4" type="video/mp4">
