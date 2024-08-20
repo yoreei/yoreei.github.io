@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Danny Grigorov&#39;s Personal Website</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://yoreei.github.io/categories/</link>
     <description>Recent content in Categories on Danny Grigorov&#39;s Personal Website</description>
     <image>
       <title>Danny Grigorov&#39;s Personal Website</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://yoreei.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://yoreei.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.133.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yoreei.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Computer Graphics</title>
-      <link>http://localhost:1313/categories/computer-graphics/</link>
+      <link>https://yoreei.github.io/categories/computer-graphics/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/computer-graphics/</guid>
+      <guid>https://yoreei.github.io/categories/computer-graphics/</guid>
       <description></description>
     </item>
   </channel>
