@@ -1,4 +1,6 @@
-RENAME Hugo's 'public' folder to 'docs'
+Use the build.sh script to build for production
+
+use `hugo serve` to build for dev
 
 Hugo outputs to 'public' but github expects to see static content in 'docs'
 
