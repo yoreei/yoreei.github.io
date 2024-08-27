@@ -70,6 +70,8 @@ params:
         url: "/archives"
       - name: Curriculum Vitae
         url: "/cv.pdf"
+      - name: P2D Publication
+        url: "/p2d-preprint.pdf"
 
     socialIcons: # optional
       - name: "<platform>"

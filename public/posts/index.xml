@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Danny Grigorov&#39;s Personal Website</title>
-    <link>https://yoreei.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Danny Grigorov&#39;s Personal Website</description>
     <image>
       <title>Danny Grigorov&#39;s Personal Website</title>
-      <url>https://yoreei.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://yoreei.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.133.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 24 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://yoreei.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Visual Studio Tricks I Wish I Knew From the Start</title>
-      <link>https://yoreei.github.io/posts/cpp-visual-studio-things-i-wish-i-knew/</link>
+      <link>http://localhost:1313/posts/cpp-visual-studio-things-i-wish-i-knew/</link>
       <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://yoreei.github.io/posts/cpp-visual-studio-things-i-wish-i-knew/</guid>
+      <guid>http://localhost:1313/posts/cpp-visual-studio-things-i-wish-i-knew/</guid>
       <description>Debugging Perfect Forwarders in Visual Studio IDE Visual Studio tends to give really bad error messages for perfect forwarders. For example, if I give the wrong arguments to std::vector&amp;rsquo;s emplace_back, I will get sent to a line in xmemory.h, and not the the line of code I wrote.
 Previously, I debugged this by deliberately raising a warning every time I used a perfect forwarder, so I can easily go back and correct the line if needed.</description>
     </item>
     <item>
       <title>Comparison Feature for Sanctuary Raytracer</title>
-      <link>https://yoreei.github.io/posts/raytracer2-compare/</link>
+      <link>http://localhost:1313/posts/raytracer2-compare/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://yoreei.github.io/posts/raytracer2-compare/</guid>
+      <guid>http://localhost:1313/posts/raytracer2-compare/</guid>
       <description>Comparison Feature for Sanctuary Raytracer I am currently fixing a bug with the KDTree implementation in my raytracer, which makes some triangles disappear under certain angles. I like these hard to spot bugs to stay fixed, so I decided to automate the process of finding them and inspecting them. When run in &amp;ldquo;comparison&amp;rdquo; mode, &amp;ldquo;Sanctuary&amp;rdquo; compares its output with a known good render, residing in a &amp;ldquo;compare&amp;rdquo; folder. If a known good render of the scene exists, the images are compared and an image diff is generated.</description>
     </item>
     <item>
       <title>How I started with Computer Graphics</title>
-      <link>https://yoreei.github.io/posts/raytracer1-debut/</link>
+      <link>http://localhost:1313/posts/raytracer1-debut/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://yoreei.github.io/posts/raytracer1-debut/</guid>
+      <guid>http://localhost:1313/posts/raytracer1-debut/</guid>
       <description>My Entry into Ray Tracing: &amp;ldquo;Sanctuary&amp;rdquo; I embarked on my ray tracing journey with the creation of the &amp;ldquo;Sanctuary&amp;rdquo; raytracer, a project born out of the Chaos Camp ray tracing course.
 Here’s a video showcasing what &amp;ldquo;Sanctuary&amp;rdquo; can do: Watch the video
 Looking ahead to 2024, the plan is to accelerate &amp;ldquo;Sanctuary&amp;rdquo; with CUDA, introduce a graphical interface (as of now, it outputs directly to a .png file), and add some rasterization capabilities.</description>

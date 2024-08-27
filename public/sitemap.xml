@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yoreei.github.io/categories/c&#43;&#43;/</loc>
+    <loc>http://localhost:1313/categories/c&#43;&#43;/</loc>
     <lastmod>2024-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yoreei.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yoreei.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yoreei.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yoreei.github.io/categories/visual-studio/</loc>
+    <loc>http://localhost:1313/categories/visual-studio/</loc>
     <lastmod>2024-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yoreei.github.io/posts/cpp-visual-studio-things-i-wish-i-knew/</loc>
+    <loc>http://localhost:1313/posts/cpp-visual-studio-things-i-wish-i-knew/</loc>
     <lastmod>2024-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yoreei.github.io/posts/raytracer2-compare/</loc>
+    <loc>http://localhost:1313/posts/raytracer2-compare/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yoreei.github.io/categories/computer-graphics/</loc>
+    <loc>http://localhost:1313/categories/computer-graphics/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yoreei.github.io/posts/raytracer1-debut/</loc>
+    <loc>http://localhost:1313/posts/raytracer1-debut/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yoreei.github.io/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://yoreei.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
